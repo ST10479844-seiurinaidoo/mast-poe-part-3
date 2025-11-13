@@ -51,5 +51,26 @@ Built using React Native and TypeScript, this app blends refined aesthetics with
 
 
 ## Change Log: 
+### Heres what I have changed in my final poe from part 2:
+Screen separation: Moved UI from a single App.tsx file to modular screens:
+1. WelcomeScreen
+2. HomeScreen
+3. AddItemScreen
+4. FilterScreen
 
+Elegant UI: Dark-gold, charcoal, and ivory design system with shadows and elevation for cards and buttons.
+
+Add Item functionality: Users can now add new menu items dynamically with:
+1. Name, description, price, category, ingredients, and image URL
+2. Automatic intensity calculation based on price
+
+Filter menu: Category-based filtering (Starter / Main / Dessert)
+Floating action buttons: Quick access to Add and Filter on Home Screen
+Keyboard handling: Smooth behavior for iOS and Android in forms
+TypeScript typing improvements: CafeItem, Course, and RootStackParamList for stronger navigation and state safety
+Predefined menu items: Expanded with images, ingredients, and descriptions
+Average price calculation: Displayed per category (Mains, Desserts, Starters)
+
+Improved UX with elegant styling, better spacing, and consistent typography
+Replaced basic UI placeholders with real images and decorative elements
 
