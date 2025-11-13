@@ -29,19 +29,26 @@ Built using React Native and TypeScript, this app blends refined aesthetics with
 4. Typed Navigation — Ensures consistent, error-free transitions across the stack.
 
 ## App Screenshots
-1. jdbue
+1. ![IMG-20251113-WA0013](https://github.com/user-attachments/assets/258fb797-f34a-4622-9667-a1e1dcae5909)
 
-2. hsgwh
 
-3. hgvxwh
+2. ![IMG-20251113-WA0014](https://github.com/user-attachments/assets/a34d7c47-f397-488b-9841-d95ab4d19dc7)
 
-4. jhvwj
 
-5. whxwj
+3. ![IMG-20251113-WA0015](https://github.com/user-attachments/assets/1d79880d-b893-4eda-bc04-28638020936d)
 
-6. jwhvwv
 
-7. hgscu
+4. ![IMG-20251113-WA0016](https://github.com/user-attachments/assets/61a30c37-d0ac-4f93-b850-333c52e0fa66)
+
+
+5. ![IMG-20251113-WA0017](https://github.com/user-attachments/assets/dddf389e-5fe6-467e-9c0a-23f5bf34ca33)
+
+
+6. ![IMG-20251113-WA0018](https://github.com/user-attachments/assets/87e34fe6-5f5f-49bf-9b01-59d7d1a3038f)
+
+
+7. ![IMG-20251113-WA0019](https://github.com/user-attachments/assets/bdaa8fc2-8a0b-4a3b-892f-d6feda404cc7)
+
 
 ## Change Log: 
 
